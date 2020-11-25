@@ -1,0 +1,17 @@
+{
+    "name": "cma/clogger",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cma",
+            "email": "chicchaima@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Clogger\\": "src/"
+        }
+    },
+    "require": {}
+}
